@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/hi")
     public String hi(){
-        return "kkkkkkkkd^&&&^";
+        return "ssssssssss^&&&^";
     }
 }
